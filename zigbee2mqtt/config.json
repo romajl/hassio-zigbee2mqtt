@@ -1,6 +1,6 @@
 {
   "name": "Zigbee2MQTT",
-  "version": "2.10.0-1",
+  "version": "2.9.2-1"
   "slug": "zigbee2mqtt",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
@@ -86,5 +86,5 @@
     "watchdog": "str?",
     "force_onboarding": "bool?"
   },
-  "image": "ghcr.io/zigbee2mqtt/zigbee2mqtt-{arch}"
+  "image": "ghcr.io/koenkk/zigbee2mqtt:2.9.2"
 }
