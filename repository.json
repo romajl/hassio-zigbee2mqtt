@@ -1,5 +1,11 @@
 {
-  "name": "Home Assistant App: Zigbee2MQTT",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
-  "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
+  "name": "Zigbee2MQTT Custom",
+  "url": "https://github.com/romajl/hassio-zigbee2mqtt",
+  "maintainer": "romajl",
+  "addons": [
+    "zigbee2mqtt",
+    "zigbee2mqtt-edge",
+    "zigbee2mqtt-proxy",
+    "zigbee2mqtt_292"
+  ]
 }
