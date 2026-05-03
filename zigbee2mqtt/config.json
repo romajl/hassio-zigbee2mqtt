@@ -1,8 +1,8 @@
 {
-  "name": "Zigbee2MQTT",
+  "name": "Zigbee2MQTT (2.9.2)",
   "version": "2.9.2-custom"
-  "slug": "zigbee2mqtt",
-  "description": "Use your ZigBee devices without the vendor's bridge or gateway",
+  "slug": "zigbee2mqtt_292",
+  "description": "Utilisez vos appareils ZigBee sans le pont ou la passerelle du fournisseur.",
   "breaking_versions": [
     "2.0.0-1"
   ],
